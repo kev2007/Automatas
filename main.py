@@ -57,4 +57,4 @@ if __name__=='__main__':
         for i,ch in enumerate(s,1): draw_step(steps[i],i,ch)
         plt.ioff(); plt.show()
     except Exception as e:
-        print("RECHAZaA:", e)
+        print("RECHAZaArr:", e)
